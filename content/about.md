@@ -1,6 +1,6 @@
 ---
 title: About
 menu: main
-draft: true
+draft: false
 ---
 This is some text about me.
