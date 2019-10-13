@@ -6,9 +6,9 @@ tags:
   - Georgia
 draft: false
 ---
-
-
 During the classical era, several independent kingdoms became established in what is now Georgia, such as Colchis and Iberia. The Georgians officially adopted Christianity in the early 4th century. The Georgian Orthodox Church had enormous importance for spiritual and political unification of early Georgian states. A unified Kingdom of Georgia reached its Golden Age during the reign of King David the Builder and Queen Tamar the Great in the 12th and early 13th centuries.
+
+<!-- excerpt -->
 
 Thereafter, the kingdom declined and eventually disintegrated under hegemony of various regional powers, including the Mongols, the Ottoman Empire, and successive dynasties of Iran. In the late 18th century, the eastern Georgian Kingdom of Kartli-Kakheti forged an alliance with the Russian Empire, which directly annexed the kingdom in 1801 and conquered the western Kingdom of Imereti in 1810. Russian rule over Georgia was eventually acknowledged in various peace treaties with Iran and the Ottomans and the remaining Georgian territories were absorbed by the Russian Empire in a piecemeal fashion in the course of the 19th century.
 
