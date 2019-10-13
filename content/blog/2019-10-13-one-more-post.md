@@ -1,11 +1,13 @@
 ---
 title: One more post
 date: 2019-10-13T09:37:51.163Z
-image: /images/download.jpeg
+image: ''
 tags:
   - Georgia
 draft: false
 ---
+![](/images/georgia_2.jpg)
+
 During the classical era, several independent kingdoms became established in what is now Georgia, such as Colchis and Iberia. The Georgians officially adopted Christianity in the early 4th century. The Georgian Orthodox Church had enormous importance for spiritual and political unification of early Georgian states. A unified Kingdom of Georgia reached its Golden Age during the reign of King David the Builder and Queen Tamar the Great in the 12th and early 13th centuries.
 
 <!-- excerpt -->
