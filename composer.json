@@ -10,8 +10,5 @@
       "homepage": "https://arnaudligny.fr",
       "role": "Developer"
     }
-  ],
-  "require": {
-    "cecil/theme-hyde": "^1.15"
-  }
+  ]
 }

@@ -1,6 +1,6 @@
-title: Dante's blog
-baseline: Writing about stuff around
-description: 'Come and read my blog, this is the best content ever!!!1'
+title: "#mine"
+baseline: ""
+description: "Adventures, are, by definition, accidents id est a random happening. To travel, on the other hand, has to do with the resources needed to initiate any road. To initiate any road, given this premise, means to be at the mercy of the unforseen, to put to good use any resource available in order to overcome it: to begin an avventurose travel. Every road is a mine full of new resources, every adventure a challenging impression."
 baseurl: /
 canonicalurl: true
 theme: hyde
